@@ -61,8 +61,8 @@ services:
       SLACK_SECRET: ''
       SLACK_SIGNING_SECRET: ''
       MASTODON_URL: 'https://mastodon.social'
-      MASTODON_CLIENT_ID: ''
-      MASTODON_CLIENT_SECRET: ''
+      MASTODON_CLIENT_ID: 'kF4LNSN91OAkSol62O0OeJA3mYU_oOfORRU6EQSFDzo'
+      MASTODON_CLIENT_SECRET: 'O9c_462tE3w7-uvYALSgakfVV7D-grsK2iLaFwp1dFQ'
 
       # === OAuth & Authentik Settings
       # NEXT_PUBLIC_POSTIZ_OAUTH_DISPLAY_NAME: 'Authentik'
